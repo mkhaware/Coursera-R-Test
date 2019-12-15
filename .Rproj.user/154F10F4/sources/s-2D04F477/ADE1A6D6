@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576385439670.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3154966289",
+    "id" : "ADE1A6D6",
+    "lastKnownWriteTime" : 1576385477,
+    "last_content_update" : 1576385477355,
+    "path" : "C:/Personal/Development/Coursera-R-Test/Testing.R",
+    "project_path" : "Testing.R",
+    "properties" : {
+        "cursorPosition" : "2,33",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
